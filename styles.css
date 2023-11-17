@@ -1,0 +1,94 @@
+body {
+    background-color: rgb(255, 255, 255);
+    margin: 0;
+    padding: 0;
+}
+
+.top-col {
+    display: grid;
+    grid-template-columns: repeat(7,14.28%);
+    gap: 0;
+    margin: 0;
+    padding: 0;
+}
+
+.white {
+    background-color: #C1C1C1;
+    height: 320px;
+    width: 200px;
+}
+
+.yellow {
+    background-color: #C1C100;
+    height: 320px;
+    width: 200px;
+}
+
+.aqua {
+    background-color: #00C1C1;
+    height: 320px;
+    width: 200px;
+}
+
+.green {
+    background-color: #00C100;
+    height: 320px;
+    width: 200px;
+}
+
+.purple {
+    background-color: #C100C1;
+    height: 320px;
+    width: 200px;
+}
+
+.red {
+    background-color: #C10000;
+    height: 320px;
+    width: 200px;
+}
+
+.blue {
+    background-color: #0000C1;
+    height: 320px;
+    width: 200px;
+}
+
+
+.middle-col {
+    display: grid;
+    grid-template-columns: repeat(7,14.28%);
+    gap: 0;
+    margin: 0;
+    padding: 0;
+}
+
+.bluem {
+    background-color: #0000C1;
+    height: 100px;
+    width: 200px;
+}
+
+.blackm {
+    background-color: #000000;
+    height: 100px;
+    width: 200px;
+}
+
+.purplem {
+    background-color: #C100C1;
+    height: 100px;
+    width: 200px;
+}
+
+.aquam {
+    background-color: #00C1C1;
+    height: 100px;
+    width: 200px;
+}
+
+.whitem {
+    background-color: #C1C1C1;
+    height: 100px;
+    width: 200px;
+}
